@@ -1,5 +1,7 @@
 {
+  "name": "Zenn",
+  "packageManager": "yarn@4.4.1",
   "dependencies": {
-    "zenn-cli": "^0.1.154"
+    "zenn-cli": "^0.1.158"
   }
 }
